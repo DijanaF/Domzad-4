@@ -1,0 +1,45 @@
+header{
+	font-family: Tahoma, Verdana, serif;
+}
+ul{
+	list-style: none;
+	float: right;
+}
+li{
+	display: inline-block;
+}
+img{
+	width: 150px;
+	height: 150px;
+}
+p{
+	font-family: Tahoma, Verdana, serif;
+}
+h1{
+	font-family: Tahoma, Verdana, serif;
+}
+a{
+	font-family: Tahoma, Verdana, serif;
+}
+.text{
+	width: 780px;
+	margin-left: 10px;
+}
+.image{
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	position: relative;
+	float:right;
+	width: 250px;
+}
+tr:nth-child(odd){
+	background-color: #e2f8a1;
+}
+td{
+	text-align: center;
+	font-family: Tahoma, Verdana, serif;
+}
+h4{
+	text-align: center;
+}
